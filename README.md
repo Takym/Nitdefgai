@@ -1,3 +1,6 @@
+# <strong style="color:red"><u>このリポジトリは [`Takym/takym.github.io`](https://github.com/Takym/takym.github.io) に統合されました。</u></strong>
+---
+
 # Nitdefgai: 生成系人工知能に適した日本語情報技術資料集
 Copyright (C) 2019-2025 Takym.
 
